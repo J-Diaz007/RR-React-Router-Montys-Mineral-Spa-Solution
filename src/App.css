@@ -35,6 +35,8 @@ li:hover {
 
 .homepage {
   padding-top: 50px;
+  width: 75%;
+  margin: 0 auto;
 }
 
 .App-header {
@@ -91,4 +93,8 @@ li:hover {
 .packages li {
   font-size: 25px;
   margin: 20px;
+}
+
+.list-group-itme:hover {
+  background-color: rgb(163, 147, 147);
 }
